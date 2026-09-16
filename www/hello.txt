@@ -1,0 +1,1 @@
+Hello from tiny-http-server's static file handler!
